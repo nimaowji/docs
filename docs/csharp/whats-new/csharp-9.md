@@ -24,7 +24,7 @@ C# 9.0 adds the following features and enhancements to the C# language:
 - Module initializers
 - New features for partial methods
 
-C# 9.0 is supported on **.NET 5**. For more information, see [C# language versioning](../language-reference/configure-language-version.md).
+C# 9.0 is supported on **DotNET 5**. For more information, see [C# language versioning](../language-reference/configure-language-version.md).
 
 ## Record types
 
